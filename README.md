@@ -10,6 +10,6 @@ This WP Pusher checker project was an assignment to test our knowledge on how to
 
 The link to this project, follow these link:
 
-https://657ed798738f6560fa80fdec--beamish-mermaid-51a2fd.netlify.app/
+https://wp-pusher-checkot.netlify.app/
 
 
